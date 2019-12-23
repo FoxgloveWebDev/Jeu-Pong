@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+}
+
+#canvasElem {
+    background-color: black;
+    text-align: center;
+}
+
+#titre {
+    color: black;
+    font-weight: bold;
+    font-size: 2em;
+}
